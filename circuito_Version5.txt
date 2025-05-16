@@ -1,0 +1,13 @@
+Desenho do circuito para você montar fácil:
+
+- LED (lâmpada):
+  - Anodo (+) no pino 13 do Arduino
+  - Catodo (-) ligado ao GND via resistor de 220Ω
+
+- Botão:
+  - Um lado no pino 2 do Arduino
+  - Outro lado no GND
+
+No código, o pino 2 já usa o resistor pull-up interno do Arduino.
+
+Se quiser a imagem real, sugiro montar no Fritzing ou Tinkercad depois!
